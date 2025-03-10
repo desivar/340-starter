@@ -376,7 +376,7 @@ footer {
 @media screen and (min-width: 700px) {
   /* body + main + checkerboard */
   body {
-    background-image: url("/public/images/site/checkerboard.jpg");
+    background-image: url("/images/site/checkerboard.jpg");
     background-repeat:repeat;
     background-size: 35em 35em;
   }
